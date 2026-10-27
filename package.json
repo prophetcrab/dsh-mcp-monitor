@@ -4,11 +4,10 @@
   "description": "Read-only view of the MCP servers configured in this profile: connection state and registered tools.",
   "license": "MIT",
   "author": "prophetcrab",
-  "homepage": "https://github.com/prophetcrab/dsh-plugins/tree/main/plugins/dsh-mcp-monitor",
+  "homepage": "https://github.com/prophetcrab/dsh-mcp-monitor#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prophetcrab/dsh-plugins.git",
-    "directory": "plugins/dsh-mcp-monitor"
+    "url": "git+https://github.com/prophetcrab/dsh-mcp-monitor.git"
   },
   "keywords": [
     "dsh",
